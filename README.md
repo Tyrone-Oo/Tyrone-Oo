@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tyrone-Oo
-- 👀 I’m interested in ...data analytics, AI, machine learning and....  inventing meaningful happy life.
+- 👀 I’m interested in ...data analytics, AI, machine learning and....  
 - 🌱 I’m currently studying ...MSc in Computer Science with data analytics 
 - 💞️ I’m looking to collaborate on ...data-driven projects and business insights
 - 📫 How to reach me ... tyrone.oo@outlook.com
